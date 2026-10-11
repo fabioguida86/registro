@@ -1,0 +1,17 @@
+{
+  "name": "Presenze Danza",
+  "short_name": "Presenze",
+  "description": "Registro presenze e statistiche per la scuola di danza",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8fa",
+  "theme_color": "#c2185b",
+  "lang": "it",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
